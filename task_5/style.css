@@ -1,0 +1,10 @@
+ .links { 
+    background: #F6967D;
+ }
+ .links a {
+     width: auto;
+     color: #FFFDEB;
+     display: inline-block;
+     border-right: 1px solid #B62025;
+     padding: 5px 10px;
+ }

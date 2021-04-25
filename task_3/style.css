@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 10px;
+    background: #fff;
+}
+p{
+    width: 100px;
+    height: auto;
+    margin: auto;
+}
+.a::before{
+     color: black;
+    content:"\2660";
+}
+.b::before{
+     color: black;
+    content:"\2663";
+}
+.c::before{
+     color:red;
+    content:"\2666";
+}
+
+.d::before{
+     color:red;
+    content:"\2665";
+}
+.Myclass{
+    font-size: 20px;
+}
